@@ -1,0 +1,2 @@
+# github-upload
+As a capstone requirement for my graduate program, all students were required to complete an original research project analyzing a data set incorporating multiple measures and time points. For my project, I explored associations between reported measures of social position and depressive symptoms among adolescents using data from the National Longitudinal Study on Adolescent to Adult Health. 
