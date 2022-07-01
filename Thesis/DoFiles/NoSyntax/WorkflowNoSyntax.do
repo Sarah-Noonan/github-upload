@@ -1,4 +1,3 @@
-*
 *Workflow No Syntax
 *Merge Waves
 do "/Users/Sarah/Documents/_NYU/Thesis/DoFiles/NoSyntax/Merge_NoSyntax.do"
